@@ -41,7 +41,7 @@ export default function Mon() {
                         </select>
                     </p>
                 </div>
-                <div>
+                <div className='tc1'> 
                     <div 
                     
                     className='tc1'
